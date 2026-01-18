@@ -1,6 +1,6 @@
 # Gor Melkumyan
 
-**Software Engineer | Applied Mathematics**
+**Software Engineer | Applied Mathematician**
 
 Master's student in Applied Statistics and Data Science at Yerevan State University. I focus on cryptography and mathematical problem-solving.
 
