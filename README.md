@@ -1,16 +1,28 @@
-## Hi there 👋
+# Gor Melkumyan
 
-<!--
-**Gor-2001/Gor-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Applied Mathematics**
 
-Here are some ideas to get you started:
+Master's student in Applied Statistics and Data Science at Yerevan State University. I focus on cryptography and mathematical problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+
+- C Developer / Software Engineer at HAPALS Technology
+- Working on cryptographic implementations and security-focused code
+
+## Technical Stack
+
+**Languages:** C, C++, Bash  
+**Tools:** Linux CLI, Git/GitLab, CMake, GoogleTest, Makefiles  
+**Focus Areas:** Systems programming, cryptography, algorithm design, mathematical modeling
+
+## On GitHub
+
+Most of my repositories involve:
+- Low-level C/C++ implementations
+- Mathematical problem solutions
+
+## Connect
+
+📧 gormelqumyan6@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/gor-melkumyan-0b7279225/)  
+📍 Yerevan, Armenia
