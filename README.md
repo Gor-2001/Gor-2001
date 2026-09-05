@@ -4,9 +4,7 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="60%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gor-2001&layout=compact&langs_count=6&custom_title=My%20Programming%20Languages&theme=radical&count_private=true&cacheSeconds=1800" alt="My Programming Languages" />
 
 Master's student in Applied Statistics and Data Science at Yerevan State University. I focus on cryptography and mathematical problem-solving.
 
@@ -28,12 +26,3 @@ Most of my repositories involve:
 Email: gormelqumyan6@gmail.com  
 LinkedIn: https://www.linkedin.com/in/gor-melkumyan-0b7279225/  
 Location: Yerevan, Armenia
-
-</td>
-<td valign="top" width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gor-2001&layout=compact&langs_count=6&custom_title=My%20Programming%20Languages&theme=radical" alt="My Programming Languages" />
-
-</td>
-</tr>
-</table>
