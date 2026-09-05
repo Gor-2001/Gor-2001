@@ -32,7 +32,7 @@ Location: Yerevan, Armenia
 </td>
 <td valign="top" width="40%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&custom_title=My%20Programming%20Languages&theme=radical" alt="My Programming Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gor-2001&layout=compact&langs_count=6&custom_title=My%20Programming%20Languages&theme=radical" alt="My Programming Languages" />
 
 </td>
 </tr>
