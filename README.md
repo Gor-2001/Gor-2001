@@ -26,3 +26,7 @@ Most of my repositories involve:
 📧 gormelqumyan6@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/gor-melkumyan-0b7279225/)  
 📍 Yerevan, Armenia
+
+## Programming Languages
+
+[![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gor-2001&layout=donut&theme=dark)](https://github.com/Gor-2001)
