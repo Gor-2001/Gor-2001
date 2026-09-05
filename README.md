@@ -27,6 +27,21 @@ Most of my repositories involve:
 💼 [LinkedIn](https://www.linkedin.com/in/gor-melkumyan-0b7279225/)  
 📍 Yerevan, Armenia
 
-## Programming Languages
+<table>
+<tr>
+<td width="60%" valign="top">
 
-[![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gor-2001&layout=donut&theme=dark)](https://github.com/Gor-2001)
+## Current Work
+
+- C Developer / Software Engineer at HAPALS Technology
+- Working on cryptographic implementations and security-focused code
+
+</td>
+
+<td width="40%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gor-2001&layout=donut&theme=dark" />
+
+</td>
+</tr>
+</table>
