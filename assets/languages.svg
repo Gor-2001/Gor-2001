@@ -1,0 +1,18 @@
+<svg width="340" height="192" viewBox="0 0 340 192" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <defs>
+    <clipPath id="bar-clip">
+      <rect x="20" y="56" width="300" height="10" rx="5.0" />
+    </clipPath>
+  </defs>
+  <style>
+    .bg { fill: #2E3440; stroke: #5E81AC; stroke-width: 1; rx: 10; }
+    .title { fill: #88C0D0; font-size: 17px; font-weight: 600; }
+    .legend { fill: #D8DEE9; font-size: 12.5px; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="339" height="191" rx="10" />
+  <text x="20" y="30" class="title">My Programming Languages</text>
+  <g clip-path="url(#bar-clip)">
+    <rect x="20.00" y="56" width="249.42" height="10" fill="#88C0D0" /><rect x="269.42" y="56" width="24.24" height="10" fill="#81A1C1" /><rect x="293.66" y="56" width="16.02" height="10" fill="#5E81AC" /><rect x="309.68" y="56" width="9.99" height="10" fill="#8FBCBB" /><rect x="319.68" y="56" width="0.32" height="10" fill="#B48EAD" />
+  </g>
+  <circle cx="25.0" cy="92" r="5" fill="#88C0D0" /><text x="36.0" y="96" class="legend">C++ (83.14%)</text><circle cx="175.0" cy="92" r="5" fill="#81A1C1" /><text x="186.0" y="96" class="legend">Shell (8.08%)</text><circle cx="25.0" cy="122" r="5" fill="#5E81AC" /><text x="36.0" y="126" class="legend">Python (5.34%)</text><circle cx="175.0" cy="122" r="5" fill="#8FBCBB" /><text x="186.0" y="126" class="legend">CMake (3.33%)</text><circle cx="25.0" cy="152" r="5" fill="#B48EAD" /><text x="36.0" y="156" class="legend">C (0.11%)</text>
+</svg>
