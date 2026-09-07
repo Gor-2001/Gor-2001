@@ -15,7 +15,7 @@ Master's student in Applied Statistics and Data Science at Yerevan State Univers
 ### Technical Stack
 **Languages:** C, C++, Bash  
 **Tools:** Linux CLI, Git/GitLab, CMake, GoogleTest, Makefiles  
-**Focus Areas:** Systems programming, cryptography, algorithm design, mathematical modeling
+**Focus Areas:** Cryptography, algorithm design, mathematical modeling
 
 ### On GitHub
 Most of my repositories involve:
