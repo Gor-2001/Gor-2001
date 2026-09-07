@@ -1,4 +1,4 @@
-<img align="right" width="300" src="./assets/languages.svg" alt="My Programming Languages" />
+<img align="right" src="./assets/languages.svg" alt="My Programming Languages" />
 
 # Gor Melkumyan
 
