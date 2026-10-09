@@ -1,7 +1,7 @@
-<svg width="818" height="78" viewBox="0 0 818 78" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+<svg width="811" height="78" viewBox="0 0 811 78" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Ubuntu, Sans-Serif">
   <defs>
     <clipPath id="bar-clip">
-      <rect x="18" y="34" width="782" height="8" rx="4.0" />
+      <rect x="18" y="34" width="775" height="8" rx="4.0" />
     </clipPath>
   </defs>
   <style>
@@ -9,10 +9,10 @@
     .title { fill: #88C0D0; font-size: 14px; font-weight: 600; }
     .legend { fill: #D8DEE9; font-size: 12px; }
   </style>
-  <rect class="bg" x="0.5" y="0.5" width="817" height="77" rx="8" />
+  <rect class="bg" x="0.5" y="0.5" width="810" height="77" rx="8" />
   <text x="18" y="20" class="title">My Programming Languages</text>
   <g clip-path="url(#bar-clip)">
-    <rect x="18.00" y="34" width="357.38" height="8" fill="#88C0D0" /><rect x="375.38" y="34" width="315.41" height="8" fill="#81A1C1" /><rect x="690.79" y="34" width="65.50" height="8" fill="#5E81AC" /><rect x="756.30" y="34" width="30.66" height="8" fill="#8FBCBB" /><rect x="786.95" y="34" width="12.64" height="8" fill="#B48EAD" /><rect x="799.59" y="34" width="0.41" height="8" fill="#4C566A" />
+    <rect x="18.00" y="34" width="704.41" height="8" fill="#88C0D0" /><rect x="722.41" y="34" width="52.44" height="8" fill="#81A1C1" /><rect x="774.84" y="34" width="10.89" height="8" fill="#5E81AC" /><rect x="785.73" y="34" width="5.10" height="8" fill="#8FBCBB" /><rect x="790.83" y="34" width="2.10" height="8" fill="#B48EAD" /><rect x="792.93" y="34" width="0.07" height="8" fill="#4C566A" />
   </g>
-  <circle cx="22.00" cy="62" r="4" fill="#88C0D0" /><text x="32.00" y="66" class="legend">Jupyter Notebook (45.70%)</text><circle cx="230.00" cy="62" r="4" fill="#81A1C1" /><text x="240.00" y="66" class="legend">C++ (40.33%)</text><circle cx="347.52" cy="62" r="4" fill="#5E81AC" /><text x="357.52" y="66" class="legend">Python (8.38%)</text><circle cx="478.96" cy="62" r="4" fill="#8FBCBB" /><text x="488.96" y="66" class="legend">Shell (3.92%)</text><circle cx="603.44" cy="62" r="4" fill="#B48EAD" /><text x="613.44" y="66" class="legend">CMake (1.62%)</text><circle cx="727.92" cy="62" r="4" fill="#4C566A" /><text x="737.92" y="66" class="legend">C (0.05%)</text>
+  <circle cx="22.00" cy="62" r="4" fill="#88C0D0" /><text x="32.00" y="66" class="legend">Jupyter Notebook (90.89%)</text><circle cx="230.00" cy="62" r="4" fill="#81A1C1" /><text x="240.00" y="66" class="legend">C++ (6.77%)</text><circle cx="340.56" cy="62" r="4" fill="#5E81AC" /><text x="350.56" y="66" class="legend">Python (1.41%)</text><circle cx="472.00" cy="62" r="4" fill="#8FBCBB" /><text x="482.00" y="66" class="legend">Shell (0.66%)</text><circle cx="596.48" cy="62" r="4" fill="#B48EAD" /><text x="606.48" y="66" class="legend">CMake (0.27%)</text><circle cx="720.96" cy="62" r="4" fill="#4C566A" /><text x="730.96" y="66" class="legend">C (0.01%)</text>
 </svg>
